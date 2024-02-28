@@ -15,15 +15,13 @@ Using the np.linalg.matrix_rank(),we can find the rankof the given matrix
 print result
 
 ## Program:
-```
 #Program to find the inverse of a matrix.
-#Developed by: Gokul .M
-#RegisterNumber:22009089
+#Developed by: kamaleshwar.kv
+#RegisterNumber:212223240063
 import numpy as np
 A=np.array([[6,2,3],[3,1,1],[10,3,4]])
 res=np.linalg.inv(A)
 print(res)
-```
 ## Output:
 ![output](./inverse%20of%20matrix.png)
 ## Result:
